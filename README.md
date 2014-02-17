@@ -9,10 +9,10 @@ To do so, it builds a _behavioural cache_ through the selection of users sharing
 Licence: GNU AGPL (See COPYING)
 
 Authors: 
-Mathieu Goessens <mathieu.goessens@inria.fr> , <gebura@poolp.org>
-Davide Frey <davide.frey@inria.fr>
-Anne-Marie Kermarrec <anne-marie.kermarrec@inria.fr>
-With noticeable support from various members of the ASAP team <http://irisa.fr/asap>
+* Mathieu Goessens <mathieu.goessens@inria.fr> , <gebura@poolp.org>
+* Davide Frey <davide.frey@inria.fr>
+* Anne-Marie Kermarrec <anne-marie.kermarrec@inria.fr>
+* With noticeable support from various members of the ASAP team <http://irisa.fr/asap>
 
 Status: Early design phase.
 * Library:
