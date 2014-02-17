@@ -6,7 +6,7 @@ Behave is an effort to build a peer-to-peer CDN, allowing users to contribute to
 Behave is designed to address main issues of peer-to-peer content distribution: latency and responsiveness. 
 To do so, Behave builds a _behavioural cache_ by selecting users who shares the same interests. This selection allows nodes to only exchange within a small subset of the network, and prefetch information such as cache indexes, giving them an immediate view of which content is available or not.
 
-This website presents a firefox-based implementation of Behave, that leverage webRTC technologies for communication, firefox XPCOM API to access internal browser state.
+This website presents a firefox-based implementation of Behave, that leverage webRTC technologies for communication, and Mozilla XPCOM API to access internal browser state.
 
 License: GNU AGPL (See COPYING)
 
