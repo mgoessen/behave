@@ -1,12 +1,14 @@
-Behave peer-to-peer CDN
-==========================
+Behave : a Peer-to-Peer CDN
+============================
 
-Behave is an effort to build a peer-to-peer CDN, allowing users to contribute hosting and sharing of website they like, in order to increase the decentralizatation of the web.
+Behave is an effort to build a peer-to-peer CDN, allowing users to contribute to hosting and sharing websites they like, increasing the decentralizatation of the web.
 
-It is designed to address one main issue of peer-to-peer content distribution: latency and responsiveness. 
-To do so, it builds a _behavioural cache_ through the selection of users sharing the same interests. This selection allows nodes to only exchange within a small subset of the network, and prefetch informations likes cache indexes, giving them an immediate view of which content is available or not.
+Behave is designed to address main issues of peer-to-peer content distribution: latency and responsiveness. 
+To do so, Behave builds a _behavioural cache_ by selecting users who shares the same interests. This selection allows nodes to only exchange within a small subset of the network, and prefetch information such as cache indexes, giving them an immediate view of which content is available or not.
 
-Licence: GNU AGPL (See COPYING)
+This website presents a firefox-based implementation of Behave, that leverage webRTC technologies for communication, firefox XPCOM API to access internal browser state.
+
+License: GNU AGPL (See COPYING)
 
 Authors: 
 * Mathieu Goessens <mathieu.goessens@inria.fr> , <gebura@poolp.org>
