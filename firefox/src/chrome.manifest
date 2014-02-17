@@ -1,0 +1,2 @@
+content     behave    chrome/content/
+overlay chrome://browser/content/browser.xul chrome://behave/content/behave.xul
